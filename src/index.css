@@ -1,0 +1,26 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+
+.img
+{
+	position:absolute;
+	width:70px;
+	height:70px;
+	top:25px;
+	left:0px;
+	opacity:0.6;
+}
+
+.post
+{
+	overflow:hidden;
+	padding-left:80px;
+}
+
+.na
+{
+  background-color:rgba(151,139,169,1);
+}
