@@ -2,6 +2,10 @@
 
 Blog Page for reading latest posts using Reactjs and Redux.
 
+## Screenshots 
+
+<img src="screenshots/img1.png" width="400px" height="250px" /> <img src="screenshots/img2.png" width="400px" height="250px" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
